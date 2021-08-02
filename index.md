@@ -3,7 +3,7 @@ This project will be to create a robotic arm that you can control with your phon
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Megan Ruiz | Colts Neck Highschool | Electrical Engineering | Incoming Senior
+| Megan Ruiz | Colts Neck Highschool | Mechanical Engineering | Incoming Senior
 
 ![]()
   
