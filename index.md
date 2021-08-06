@@ -14,7 +14,7 @@ My final Milestone will be to get the arm to grab objects with different sensiti
 [![]()]()
 
 # Second Milestone
-My second Milestone is to get the complete robotic arm base completely operational. This includes bluetooth connectivity for you to input where you want the arm to move. This is still in progress though.
+My second Milestone was to get the complete robotic arm base completely operational. This includes bluetooth connectivity for you to input where you want the arm to move. To get this to work, I have to construct the physical aspects of the arm so the servos would have a specific part of the arm to move. Once constructed, I connected all of the servos to an Arduino to make sure all the servos were able to move as intended. After I had confirmed that they moved as intended, I started work on the app that would connect to the servos and give them instructions to move. While this process had taken a while to finish, it ended up working great and I was able to move all of the servos with a bluetooth connection from my phone.
 
 
 # [First Milestone](https://youtu.be/TmVGl0yPiXY "First Milestone")
