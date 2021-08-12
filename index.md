@@ -7,12 +7,13 @@ This project will be to create a robotic arm that you can control with your phon
 
 ![IMG_06801](https://user-images.githubusercontent.com/88210385/129093337-8092dc5e-561d-4e04-b0de-91afa7883abb.jpg)
   
-# Final Milestone
+# [Final Milestone](https://youtu.be/YtiLdIFj_-4)
 
 My final Milestone was to add a fourth button so the robotic arm can grab different objects and move them around. After the second milestone this had become easier to accomplish but I had still run into some small movement issues with the connection between the button and the last servo. This one addition allowed my robotic arm to finally grab an object that I put into it's hands. 
 
+<img width="597" alt="Screen Shot 2021-08-12 at 5 03 42 PM" src="https://user-images.githubusercontent.com/88210385/129269594-ae545ca7-2b3c-46fd-aef3-ffb84002a641.png">
 
-[![]()]()
+
 
 # [Second Milestone](https://youtu.be/sN2iNDrJfi4)
 
