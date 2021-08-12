@@ -9,7 +9,8 @@ This project will be to create a robotic arm that you can control with your phon
   
 # Final Milestone
 
-My final Milestone will be to get the arm to grab objects with different sensitivities
+My final Milestone was to add a fourth button so the robotic arm can grab different objects and move them around. After the second milestone this had become easier to accomplish but I had still run into some small movement issues with the connection between the button and the last servo. This one addition allowed my robotic arm to finally grab an object that I put into it's hands. 
+
 
 [![]()]()
 
